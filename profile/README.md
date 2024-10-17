@@ -1,4 +1,4 @@
-# BWS 3 Samples <span style="color:#ee726b">NEW!</span>
+# BWS 3 Samples $${\color{#ee726b}NEW!}$$ 
 
 ![BWS 3 Samples Overview](https://github.com/BioID-GmbH/.github/blob/main/images/BWS3-Samples.png)
 
