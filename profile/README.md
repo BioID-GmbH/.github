@@ -1,6 +1,6 @@
 # BWS 3 Samples <span style="color:#ee726b">NEW!</span>
 
-![BWS 3 Samples Overview](/BWS3-Samples.png)
+![BWS 3 Samples Overview](https://github.com/BioID-GmbH/.github/blob/main/images/BWS3-Samples.png)
 
 ## Test the Powerful Biometric Functions of BioID with the Following Sample Code
 
