@@ -21,7 +21,7 @@ The RestGrpcForwarder servers demonstrate how RESTful API calls can be accepted 
 intended to show you how to interact with the BWS 3 gRPC endpoint using your company server. Available for [ASP.NET Kestrel Server (C#)][BWSClient-RestGrpc-CSharp] and [Apache Tomcat Server (Java)][BWSClient-RestGrpc-Java].
 
 ### [BWSClient-WebApp][BWSClient-WebApp] 
-his project is an ASP.NET server with dynamic web pages for Liveness Detection, Face Deepfake Detection, and PhotoVerify. This web app implements image capturing and sends the images as form data to its server. 
+This project is an ASP.NET server with dynamic web pages for Liveness Detection, Face Deepfake Detection, and PhotoVerify. This web app implements image capturing and sends the images as form data to its server. 
 The server calls the BioID Web Service via gRPC.
 
 ### [BWS Tools][BWSTools]
