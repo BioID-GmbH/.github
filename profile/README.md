@@ -10,7 +10,7 @@ These implementations demonstrate the possibilities of capturing images on mobil
 In the "BWS Client" category, you can send these images from a mobile app to a server via REST API. To do this, the REST-gRPC forwarder server receives the REST call from the mobile app and sends it as a gRPC call to the BioID Web Service 3 (category).
 
 ### Mobile Apps
-The [BioIDCapture iOS app][BioIDCapture-iOS] shows how to capture an image using the standard ImagePickerController for, e.g., Passive Liveness Detection. 
+The [BioIDCapture iOS app][BioIDCapture-iOS] shows how to capture an image using the standard ImagePickerController for e.g. Passive Liveness Detection. 
 For Active Liveness Detection with/without a challenge-response mechanism, two images are always captured during a recording. 
 There is an implementation for this that starts a recording and automatically returns two images, triggered by a movement of the user's head.
 
