@@ -25,7 +25,7 @@ This project is an ASP.NET server with dynamic web pages for Liveness Detection,
 The server calls the BioID Web Service via gRPC.
 
 ### [BWS Tools][BWSTools]
-To test the BioID Web Service 3 (BWS3), you can use the BWS-CLI. This BWS command-line interface can be used to easily test BWS 3 installations. 
+To test the BioID Web Service 3 (BWS 3), you can use the BWS-CLI. This BWS command-line interface can be used to easily test BWS 3 installations. 
 
 The JWT tool is for creating JSON Web Tokens to authenticate with various BWS 3 services:
 * BWS Management API
