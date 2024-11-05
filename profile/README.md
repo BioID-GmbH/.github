@@ -7,7 +7,7 @@
 First, a brief explanation of the above graphic. The sample code is divided into three categories (columns). The category "Client Apps" contains examples of mobile apps (iOS and Android). 
 These implementations demonstrate the possibilities of capturing images on mobile devices.
 
-In the "BWS Client" category, you can send these images from a mobile app to a server via REST API. To do this, the REST-gRPC forwarder server receives the REST call from the mobile app and sends it as a gRPC call to the BioID Web Service 3 (category).
+In the "BWS Client" category, you can send these images from a mobile app to a server via RESTful API. To do this, the BWSClient Web Server receives the RESTful call from the mobile app and sends it as a gRPC call to the BioID Web Service 3 (category).
 
 ### Mobile Apps
 The [BioIDCapture iOS app][BioIDCapture-iOS] shows how to capture an image using the standard ImagePickerController for e.g. Passive Liveness Detection. 
@@ -17,7 +17,7 @@ There is an implementation for this that starts a recording and automatically re
 The sample code for the Android app is currently being developed and will be available soon.
 
 ### BWS Clients
-The RestGrpcForwarder servers demonstrate how RESTful API calls can be accepted and forwarded as a gRPC call. These sample implementations are 
+The BWSClient Web Server demonstrate how RESTful API calls can be accepted and forwarded as a gRPC call. These sample implementations are 
 intended to show you how to interact with the BWS 3 gRPC endpoint using your company server. Available for [ASP.NET Kestrel Server (C#)][BWSClient-RestGrpc-CSharp] and [Apache Tomcat Server (Java)][BWSClient-RestGrpc-Java].
 
 ### [BWSClient-WebApp][BWSClient-WebApp] 
