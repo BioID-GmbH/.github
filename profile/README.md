@@ -117,7 +117,7 @@ In the "BWS Client" category, you can send these images from a mobile app to a s
 We value collaboration and contributions from the community!  
 - **Need Help?** [Contact Support][BioIDSupport].  
 - **Want to Contribute?** Submit pull requests or open issues in our repositories.  
-- **Stay Updated:** Follow us on [LinkedIn][BioIDLinkedIn] and [Twitter][BioidTwitter].
+- **Stay Updated:** Follow us on [LinkedIn][BioIDLinkedIn] and [X][BioIDX].
 - **Want more Information about BioID:** Visit our [company website][BioIDCompany]
 
 [BWSClient-WebApp]: https://github.com/BioID-GmbH/BWSClient-WebApp
@@ -142,7 +142,7 @@ We value collaboration and contributions from the community!
 [BioIDCompany]: https://www.bioid.com 
 [BioIDPlayground]: https://playground.bioid.com "See for yourself how good we are"
 [BioIDLinkedIn]: https://www.linkedin.com/company/bioid-gmbh/ "What's new at BioID?"
-[BioidTwitter]: https://twitter.com/BioID "What's new at BioID?"
+[BioIDX]: https://x.com/bioid_gmbh "What's new at BioID?"
 [BioIDSupport]: mailto:support@bioid.com "We are happy to help you"
 
 
